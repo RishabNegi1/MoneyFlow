@@ -37,7 +37,7 @@ class FirstPage extends StatelessWidget {
           },
         ),
         SizedBox(
-          height: 20,
+          height: 10,
         ),
         ElevatedButton(
           child: Text("No account? Create one!"),
